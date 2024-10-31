@@ -26,8 +26,6 @@ While I have a passion for tech, I'm also interested in medicine, sustainability
 Switching to data science would allow me to utilize my tech skills and aquired domain knowledge to make an impact in those fields.
 <br>
 Excited for the journey ahead and eager to connect with others in tech and data science!
-<br>
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTIzdTFvMGlkd3g3dmI4aW9nN2h3OWpmMWRvM3BvYzRjMW9uYnZsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" width="100px"/>
 
 
 ---
@@ -47,14 +45,6 @@ Excited for the journey ahead and eager to connect with others in tech and data 
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" **alt="Jupyter" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-plain-wordmark.svg" title="Streamlit" **alt="Streamlit" width="60" height="60"/>
 </div>
-
----
-
-### :fire: My Stats :
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=edinapetroczki&show_icons=true&theme=radical)
-<br>
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edinapetroczki&bg_color=080808&color=f0e8cc&line=5fabf2&point=755abf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 <!--
 **edinapetroczki/edinapetroczki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
