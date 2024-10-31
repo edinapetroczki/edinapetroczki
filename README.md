@@ -25,8 +25,6 @@ While I have a passion for tech, I'm also interested in medicine, sustainability
 <br>
 Switching to data science would allow me to utilize my tech skills and aquired domain knowledge to make an impact in those fields.
 <br>
-So, I recently began studying data analysis and machine learning to build the skills I need to make this career switch.
-<br>
 Excited for the journey ahead and eager to connect with others in tech and data science!
 <br>
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTIzdTFvMGlkd3g3dmI4aW9nN2h3OWpmMWRvM3BvYzRjMW9uYnZsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" width="100px"/>
