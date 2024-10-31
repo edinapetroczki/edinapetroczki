@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWY4Y2Z6YmIzcWNxd3J6eHQ4ZGhkYjJ3Zjg5dW9kaTB4eW94bDZ6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rsUGLKwgSvSxmq1VrZ/giphy.gif" width="150"/>
   <div id="badges">
-    <a href="[your-linkedin-URL](https://www.linkedin.com/in/edina-p/)">
+    <a href="https://www.linkedin.com/in/edina-p/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="emailto:e.petroczki@gmail.com">
+    <a href="mailto:e.petroczki@gmail.com">
       <img src="https://img.shields.io/badge/GMail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
     </a>
   </div>
